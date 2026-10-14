@@ -1,0 +1,12 @@
+# Vim 暫存檔
+*.swp
+*.swo
+*~
+
+# 編輯器
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
